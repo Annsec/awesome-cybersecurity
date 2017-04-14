@@ -1,13 +1,14 @@
 <h1 align="center">
-	<img width="800" src="https://cdn.rawgit.com/Annsec/awesome-cybersecurity/master/media/logo.svg" alt="Awesome cybersecurity">
+  <br>
+  <br>
+  <br>
+	<img width="500" src="https://cdn.rawgit.com/Annsec/awesome-cybersecurity/master/media/logo.svg" alt="Awesome cybersecurity">
 	<br>
+  <br>
 	<br>
 </h1>
+<center>Curated list of awesome cybersecurity companies and solutions.</center>
 <br>
-<br>
-
-Curated list of awesome cybersecurity companies and solutions.
-
 ## Security information and event management
 
 - [IBM Security](https://www.ibm.com/security/)

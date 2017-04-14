@@ -7,8 +7,10 @@
   <br>
 	<br>
 </h1>
-<center>Curated list of awesome cybersecurity companies and solutions.</center>
 <br>
+Curated list of awesome cybersecurity companies and solutions.
+<br>
+
 ## Security information and event management
 
 - [IBM Security](https://www.ibm.com/security/)

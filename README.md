@@ -23,6 +23,8 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Crowdstrike](https://www.crowdstrike.com/products/falcon-intelligence/)
 
 ## Malware protection
+- [Cylance](https://www.cylance.com/)
+- [Metapacket](http://metapacket.com/)
 - [Avast](https://www.avast.com/)
 - [FireEye](https://www.fireeye.com/)
 - [Crowdstrike](https://www.crowdstrike.com/)
@@ -32,6 +34,25 @@ Curated list of awesome cybersecurity companies and solutions.
 - [McAfee](https://www.mcafee.com/)
 - [Sophos](https://www.sophos.com/)
 - [Bitdefender](https://www.bitdefender.com/)
+- [Cyphort](https://www.cyphort.com/)
+
+## Application protection
+- [Wallarm](https://wallarm.com)
+- [Akamai](https://www.akamai.com/)
+- [Alertlogic](https://www.alertlogic.com/)
+
+## DDOS Protection
+- [Akamai](https://www.akamai.com/)
+- [Incapsula](https://www.incapsula.com/)
+- [Arbor Networks](https://www.arbornetworks.com/)
+- [OVH](https://www.ovh.com/)
+- [Fortinet](https://www.fortinet.com/)
+- [Radware](https://www.radware.com/)
+- [Juniper](https://www.juniper.net/)
+- [AWS Shield](https://aws.amazon.com/shield/)
+- [Trustwave](https://www.trustwave.com/)
+- [Fastly](https://www.fastly.com/)
+- [Trustwave](https://www.trustwave.com/)
 
 ## Security information and event management
 

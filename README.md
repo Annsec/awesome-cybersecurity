@@ -11,6 +11,28 @@
 Curated list of awesome cybersecurity companies and solutions.
 <br>
 
+## Security intelligence
+- [Exabeam](https://www.exabeam.com/)
+- [IBM](http://www-03.ibm.com/software/products/en/category/security-intelligence)
+
+## Threat intelligence
+- [Recorded future](https://www.recordedfuture.com/)
+- [Webroot Brightcloud](http://www.brightcloud.com/)
+- [Checkpoint ThreatCloud](https://www.checkpoint.com/products/threatcloud-intellistore/)
+- [FireEye](https://www.fireeye.com/products/cyber-threat-intelligence.html)
+- [Crowdstrike](https://www.crowdstrike.com/products/falcon-intelligence/)
+
+## Malware protection
+- [Avast](https://www.avast.com/)
+- [FireEye](https://www.fireeye.com/)
+- [Crowdstrike](https://www.crowdstrike.com/)
+- [Symantec](https://www.symantec.com/)
+- [F-Secure](https://www.f-secure.com/)
+- [Kaspersky](https://www.kaspersky.com/)
+- [McAfee](https://www.mcafee.com/)
+- [Sophos](https://www.sophos.com/)
+- [Bitdefender](https://www.bitdefender.com/)
+
 ## Security information and event management
 
 - [IBM Security](https://www.ibm.com/security/)
@@ -26,6 +48,7 @@ Curated list of awesome cybersecurity companies and solutions.
 - [EventTracker](https://www.eventtracker.com/)
 - [Fortinet](https://www.fortinet.com/products/management/fortisiem.html)
 - [BlackStratus](http://www.blackstratus.com/)
+- [NTT Security](https://www.nttsecurity.com/)
 
 ## License
 

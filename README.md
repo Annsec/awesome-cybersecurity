@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="800" src="https://cdn.rawgit.com/annsec/awesome-cybersecurity/master/media/logo.svg" alt="Awesome cybersecurity">
+	<img width="800" src="https://cdn.rawgit.com/Annsec/awesome-cybersecurity/master/media/logo.svg" alt="Awesome cybersecurity">
 	<br>
 	<br>
 </h1>

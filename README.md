@@ -23,6 +23,7 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Crowdstrike](https://www.crowdstrike.com/products/falcon-intelligence/)
 
 ## Malware protection
+- [Cybereason](https://www.cybereason.com/)
 - [Cylance](https://www.cylance.com/)
 - [Metapacket](http://metapacket.com/)
 - [Avast](https://www.avast.com/)
@@ -35,6 +36,9 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Sophos](https://www.sophos.com/)
 - [Bitdefender](https://www.bitdefender.com/)
 - [Cyphort](https://www.cyphort.com/)
+
+## Vulnerability testing
+- [Defensecode](https://defensecode.com)
 
 ## Application protection
 - [Wallarm](https://wallarm.com)

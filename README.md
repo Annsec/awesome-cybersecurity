@@ -22,6 +22,10 @@ Curated list of awesome cybersecurity companies and solutions.
 - [FireEye](https://www.fireeye.com/products/cyber-threat-intelligence.html)
 - [Crowdstrike](https://www.crowdstrike.com/products/falcon-intelligence/)
 
+## Network Security
+- [Clavister](https://www.clavister.com/)
+- [root9b](https://www.root9b.com/)
+
 ## Malware protection
 - [Cybereason](https://www.cybereason.com/)
 - [Cylance](https://www.cylance.com/)

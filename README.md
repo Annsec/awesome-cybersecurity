@@ -23,6 +23,8 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Crowdstrike](https://www.crowdstrike.com/products/falcon-intelligence/)
 
 ## Malware protection
+- [Endgame](https://www.endgame.com/)
+- [Heimdal Security](https://heimdalsecurity.com)
 - [Cybereason](https://www.cybereason.com/)
 - [Cylance](https://www.cylance.com/)
 - [Metapacket](http://metapacket.com/)
@@ -37,8 +39,9 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Bitdefender](https://www.bitdefender.com/)
 - [Cyphort](https://www.cyphort.com/)
 
-## Vulnerability testing
+## Vulnerability management
 - [Defensecode](https://defensecode.com)
+- [Tenable](http://www.tenable.com/)
 
 ## Application protection
 - [Wallarm](https://wallarm.com)
@@ -74,6 +77,8 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Fortinet](https://www.fortinet.com/products/management/fortisiem.html)
 - [BlackStratus](http://www.blackstratus.com/)
 - [NTT Security](https://www.nttsecurity.com/)
+- [Sentor](https://www.sentor.se/)
+- [Rejlers](http://www.rejlers.se/Vart-erbjudande/ICTTelekom/Informations--och-IT-sakerhet/)
 
 ## License
 

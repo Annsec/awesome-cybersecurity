@@ -83,6 +83,7 @@ Curated list of awesome cybersecurity companies and solutions.
 - [NTT Security](https://www.nttsecurity.com/)
 - [Sentor](https://www.sentor.se/)
 - [Rejlers](http://www.rejlers.se/Vart-erbjudande/ICTTelekom/Informations--och-IT-sakerhet/)
+- [Apiiro](https://apiiro.com/)
 
 ## License
 

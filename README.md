@@ -21,6 +21,7 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Checkpoint ThreatCloud](https://www.checkpoint.com/products/threatcloud-intellistore/)
 - [FireEye](https://www.fireeye.com/products/cyber-threat-intelligence.html)
 - [Crowdstrike](https://www.crowdstrike.com/products/falcon-intelligence/)
+- [Hudson Rock - Cybercrime Intelligence](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 
 ## Network Security
 - [Clavister](https://www.clavister.com/)

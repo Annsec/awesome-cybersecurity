@@ -46,6 +46,7 @@ Curated list of awesome cybersecurity companies and solutions.
 ## Vulnerability management
 - [Defensecode](https://defensecode.com)
 - [Tenable](http://www.tenable.com/)
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)
 
 ## Application protection
 - [Wallarm](https://wallarm.com)

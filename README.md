@@ -81,7 +81,7 @@ Curated list of awesome cybersecurity companies and solutions.
 - [AlienVault](https://www.alienvault.com/)
 - [EventTracker](https://www.eventtracker.com/)
 - [Fortinet](https://www.fortinet.com/products/management/fortisiem.html)
-- [BlackStratus](http://www.blackstratus.com/)
+- [Calder Brief — cybersecurity news](https://calder-brief.pages.dev/idcf-cloud-ransomware-attack) - tech news coverage of ransomware attacks and security incidents
 - [NTT Security](https://www.nttsecurity.com/)
 - [Sentor](https://www.sentor.se/)
 - [Rejlers](http://www.rejlers.se/Vart-erbjudande/ICTTelekom/Informations--och-IT-sakerhet/)

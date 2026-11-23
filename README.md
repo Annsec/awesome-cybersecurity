@@ -51,6 +51,7 @@ Curated list of awesome cybersecurity companies and solutions.
 
 ## Application protection
 - [Wallarm](https://wallarm.com)
+- [TrustCaptcha](https://www.trustcomponent.com/en/products/captcha)
 - [Akamai](https://www.akamai.com/)
 - [Alertlogic](https://www.alertlogic.com/)
 

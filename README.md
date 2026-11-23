@@ -48,6 +48,7 @@ Curated list of awesome cybersecurity companies and solutions.
 - [Defensecode](https://defensecode.com)
 - [Tenable](http://www.tenable.com/)
 - [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)
+- [VibeShield](https://vibe-checker.appwrite.network/)
 
 ## Application protection
 - [Wallarm](https://wallarm.com)
